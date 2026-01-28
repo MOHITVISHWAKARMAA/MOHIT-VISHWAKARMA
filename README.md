@@ -563,15 +563,6 @@ JNS Govt. College, Vikram University, Ujjain | Graduated: 2024
 </p>
 
 ---
-## 🎓 Certifications
-
-<div align="center">
-  <img src="./assets/certifications/certificate1.jpg" width="300"/>
-  <img src="./assets/certifications/certificate2.jpg" width="300"/>
-  <img src="./assets/certifications/certificate3.jpg" width="300"/>
-  <img src="./assets/certifications/certificate4.jpg" width="300"/>
-  <img src="./assets/certifications/certificate5.jpg" width="300"/>
-</div>
 
 
 ## 🏆 Achievements & Recognition
